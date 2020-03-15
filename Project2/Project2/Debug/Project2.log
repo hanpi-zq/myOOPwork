@@ -1,0 +1,43 @@
+﻿  wsdh.cpp
+D:\desktop\My code\Project2\Project2\wsdh.cpp(77,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(94,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(131,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(186,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(213,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(240,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(263,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(279,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(305,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(327,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(350,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(366,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(392,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(414,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(437,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(453,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(479,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(501,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(524,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(540,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(566,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(587,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\desktop\My code\Project2\Project2\wsdh.cpp(609,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(622,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\desktop\My code\Project2\Project2\wsdh.cpp(645,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
